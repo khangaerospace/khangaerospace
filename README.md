@@ -1,7 +1,7 @@
 - 👋 Hi, I’m khang
-- 👀 I’m interested in ...
+- 👀 I’m interested in Engineering
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ngkhang.v@gmail.com
 
 <!---
