@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ngkhang.v@gmail.com
 
-I am currently a third-year student specializing in aerospace engineering at the University of Toronto. I am looking to contribute my experience to the Engineering world.
+I am currently a third-year student specializing in aerospace engineering at the University of Toronto. I am looking to contribute my knowlege to the world.
 
 My experience in Software:
 
