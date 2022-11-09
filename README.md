@@ -12,6 +12,7 @@ My experience in Software Development:
 - Attitude Determination and Control System Lead @ [University of Toronto Aerospace Team](https://www.utat.ca/) Sept 2020 - Present
 
 My portfolio: https://khangnguyen.netlify.app/
+
 My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
 
 <!---
