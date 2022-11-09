@@ -11,7 +11,8 @@ My experience in Software Development:
 - Guidance, Navigation and Control Software Developer Intern @ [Astris Aerospace Inc](https://www.astrisaerospace.com/) from May 2022 - Aug 2022
 - Attitude Determination and Control System Lead @ [University of Toronto Aerospace Team](https://www.utat.ca/) Sept 2020 - Present
 
-My portfolio https://khangnguyen.netlify.app/
+My portfolio: https://khangnguyen.netlify.app/
+My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
 
 <!---
 khanghandsome/khanghandsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
