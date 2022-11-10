@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Space System Software Engineer 
+- 👋 Hi, I’m a Space System Software Engineer 
 - 👀 I’m interested in Aerospace Engineering
 - 🌱 I’m currently learning about aerospace engineering
 - 💞️ I’m looking to collaborate on 
