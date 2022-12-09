@@ -1,8 +1,10 @@
 - 👋 Hi, I’m a Space System Software Engineer 
 - 👀 I’m interested in Aerospace Engineering
 - 🌱 I’m currently learning about aerospace engineering
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Engineering projects
 - 📫 How to reach me ngkhang.v@gmail.com
+
+**I am currently looking for a 12 to 16 months internships**
 
 I am an Aerospace Engineering student developing technologies at the forefront of hi-tech emerging markets in Toronto, Canada. My expertise lies in robotics and spacecraft engineering. I am currently the ADCS Lead for the University of Toronto Aerospace Team developing the Attitude Control System for FINCH satellite.
 
