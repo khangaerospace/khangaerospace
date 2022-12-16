@@ -18,7 +18,8 @@ My portfolio: https://khangnguyen.netlify.app/
 My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
 
 Next Project:
-**APP LAB**: Coming Soon
+
+- **APP LAB**: Coming Soon
 <!---
 khanghandsome/khanghandsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
