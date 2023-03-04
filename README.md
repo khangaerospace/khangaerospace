@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Engineering projects
 - 📫 How to reach me ngkhang.v@gmail.com
 
-**I am currently looking for a 12 to 16 months internships**
 
 I am an Aerospace Engineering student developing technologies at the forefront of hi-tech emerging markets in Toronto, Canada. My expertise lies in robotics and spacecraft engineering. I am currently the ADCS Lead for the University of Toronto Aerospace Team developing the Attitude Control System for FINCH satellite.
 
@@ -19,7 +18,7 @@ My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
 
 Next Project:
 
-- **APP LAB**: Coming Soon
+- I start a new position as a Hardware Developer Intern at Johnscon Control on May 2023.
 <!---
 khanghandsome/khanghandsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
