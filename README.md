@@ -18,7 +18,7 @@ My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
 
 Next Project:
 
-- I will start a new position as a Hardware Developer Intern at [Johnson Control](https://www.johnsoncontrols.com/) on May 2023.
+- I will start a new position as a Hardware Design Intern at [Johnson Control](https://www.johnsoncontrols.com/) on May 2023.
 <!---
 khanghandsome/khanghandsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
