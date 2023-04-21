@@ -21,8 +21,9 @@ Next Project:
 - I will start a new position as a Hardware Design Intern at [Johnson Control](https://www.johnsoncontrols.com/) on May 1st, 2023.
 
 My Contribution 
-
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=khangaerospace&theme=dark)](https://git.io/streak-stats)
+<\p>
 <!---
 khanghandsome/khanghandsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
