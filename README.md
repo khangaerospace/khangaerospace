@@ -7,7 +7,7 @@
 
 I am an Aerospace Engineering student developing technologies at the forefront of hi-tech emerging markets in Toronto, Canada. My expertise lies in robotics and spacecraft engineering. I am currently the ADCS Lead for the University of Toronto Aerospace Team developing the Attitude Control System for FINCH satellite.
 
-Join my **World Space Community**: https://discord.gg/DU69befN
+Join my **World Space Community**: https://discord.gg/h4kkNWt4DD
 
 My experience in Software Development:
 
