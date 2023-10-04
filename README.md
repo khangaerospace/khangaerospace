@@ -11,8 +11,10 @@ Join my **World Space Community**: https://discord.gg/h4kkNWt4DD
 
 My experience in Software Development:
 
+- Director of Space Systems @ [University of Toronto Aerospace Team](https://www.utat.ca/) from July 2023 - Present
+- Hardware Design Intern @ [Johnson Controls International](https://www.johnsoncontrols.com/) from May 2023 - Present.
+- Attitude Determination and Control Systems Lead @ [University of Toronto Aerospace Team](https://www.utat.ca/) from Sept 2020 - September 2023
 - Guidance, Navigation and Control Software Developer Intern @ [Astris Aerospace Inc](https://www.astrisaerospace.com/) from May 2022 - Aug 2022
-- Attitude Determination and Control System Lead @ [University of Toronto Aerospace Team](https://www.utat.ca/) from Sept 2020 - Present
 
 My portfolio: https://khangnguyen.netlify.app/
 
@@ -20,7 +22,7 @@ My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
 
 Next Project:
 
-- I will start a new position as a Hardware Design Intern at [Johnson Control](https://www.johnsoncontrols.com/) on May 1st, 2023.
+- FINCH Satellite at [University of Toronto Aerospace Team](https://www.utat.ca/)
 
 My Contribution 
 
