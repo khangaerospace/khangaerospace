@@ -26,7 +26,7 @@ Next Project:
 
 My Contribution 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=khangaerospace&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?khangaerospace=DenverCoder1)](https://git.io/streak-stats)
 
 <!---
 khanghandsome/khanghandsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
