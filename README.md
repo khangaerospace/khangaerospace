@@ -16,7 +16,7 @@ My experience in Software Development:
 - Director of Space Systems @ [University of Toronto Aerospace Team](https://www.utat.ca/) from July 2023 - May 2025
 - Hardware Design Intern @ [Johnson Controls International](https://www.johnsoncontrols.com/) from May 2023 - May 2024.
 - Attitude Determination and Control Systems Lead @ [University of Toronto Aerospace Team](https://www.utat.ca/) from Sept 2020 - September 2023
-- Guidance, Navigation and Control Software Developer Intern @ [Astris Aerospace Inc](https://www.astrisaerospace.com/) from May 2022 - Aug 2022
+- Guidance, Navigation and Control Software Developer @ [Astris Aerospace Inc](https://www.astrisaerospace.com/) from May 2022 - Aug 2022
 
 My portfolio: https://khangnguyen.netlify.app/
 
