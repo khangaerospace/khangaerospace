@@ -15,16 +15,3 @@ My experience in Software Development:
 My portfolio: https://khangnguyen.netlify.app/
 
 My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
-
-Next Project:
-
-- FINCH Satellite at [University of Toronto Aerospace Team](https://www.utat.ca/)
-
-My Contribution 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?khangaerospace=DenverCoder1)](https://git.io/streak-stats)
-
-<!---
-khanghandsome/khanghandsome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
