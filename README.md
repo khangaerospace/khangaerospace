@@ -1,13 +1,7 @@
-- 👋 Hi, I’m a Control System Engineer 
-- 👀 I’m interested in Engineering
-- 🌱 I’m currently learning about aerospace engineering
-- 💞️ I’m looking to collaborate on Engineering projects
-- 📫 How to reach me ngkhang.v@gmail.com
+I am an Aerospace Engineering student developing technologies at the forefront of hi-tech emerging markets in Toronto, Canada. My expertise lies in robotics and spacecraft engineering. 
 
+Join my [**World Space Community**](https://discord.gg/h4kkNWt4DD)
 
-I am an Aerospace Engineering student developing technologies at the forefront of hi-tech emerging markets in Toronto, Canada. My expertise lies in robotics and spacecraft engineering. I am currently the ADCS Lead for the University of Toronto Aerospace Team developing the Attitude Control System for FINCH satellite.
-
-Join my **World Space Community**: https://discord.gg/h4kkNWt4DD
 
 My experience in Software Development:
 
