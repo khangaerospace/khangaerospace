@@ -1,6 +1,6 @@
 I am an Aerospace Engineering student developing technologies at the forefront of hi-tech emerging markets in Toronto, Canada. My expertise lies in robotics and spacecraft engineering. 
 
-Join my [**World Space Community**](https://discord.gg/h4kkNWt4DD)
+Join my [**World Space Community**](https://discord.gg/h4kkNWt4DD) discord group
 
 
 My experience in Software Development:
