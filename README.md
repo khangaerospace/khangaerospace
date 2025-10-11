@@ -1,4 +1,4 @@
-I am an Aerospace Engineering student developing technologies at the forefront of hi-tech emerging markets in Toronto, Canada. My expertise are robotics and spacecraft engineering. 
+I am an Aerospace Engineering student developing technologies at the forefront of hi-tech emerging markets in Toronto, Canada. My expertise are robotics, aircrafts and spacecraft engineering. 
 
 Join my [**World Space Community**](https://discord.gg/h4kkNWt4DD) discord group
 
