@@ -12,6 +12,9 @@ My experience in Software Development:
 - Attitude Determination and Control Systems Lead @ [University of Toronto Aerospace Team](https://www.utat.ca/) from Sept 2020 - September 2023
 - Guidance, Navigation and Control Software Developer @ [Astris Aerospace Inc](https://www.astrisaerospace.com/) from May 2022 - Aug 2022
 
+My Education:
+- Bachelor of Applied Science (BASc) in Engineering Science @ [University of Toronto](https://www.utoronto.ca/)
+
 My portfolio: https://khangnguyen.netlify.app/
 
 My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
