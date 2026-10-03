@@ -15,6 +15,6 @@ My experience in Software Development:
 My Education:
 - Bachelor of Applied Science (BASc) in Engineering Science @ [University of Toronto](https://www.utoronto.ca/)
 
-My portfolio: https://khangnguyen.netlify.app/
+My portfolio: https://khangaerospace.com/
 
 My Linkedin: https://www.linkedin.com/in/khang-nguyen-5883411a5/
